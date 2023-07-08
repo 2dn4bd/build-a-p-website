@@ -46,7 +46,7 @@ color: #FD6E0A;
     background-position: bottom right;
 }
 .banner{
-    padding:35px 30px   0px 220px ;
+    padding:35px 30px   0px 240px ;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -94,7 +94,7 @@ main{
 /* this is about  part of website */
 
 .about{
-    padding: 130px;
+    padding: 120px;
     background-color: #FFF8F3;
     margin:130px;
 }
@@ -110,4 +110,12 @@ font-weight: 700;
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+}
+.about-info-container{
+ display: flex;
+ text-align: center;
+ justify-content: space-between;
+}
+.about-titleA{
+    font-size: 20px;
 }
